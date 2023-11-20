@@ -250,7 +250,7 @@ const Landing = () => {
           {outputDetails && <OutputDetails outputDetails={outputDetails} />}
         </div>
       </div>
-      <Footer name="CodeRush" />
+      <Footer name="CodRush" />
     </>
   );
 };
