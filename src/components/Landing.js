@@ -230,7 +230,7 @@ const Landing = () => {
         </div>
       </div>
       <div className="flex flex-col xl:flex-row gap-4 items-start px-8 py-4 mb-8 h-screen">
-        <div className="flex flex-col w-full h-full justify-start items-end">
+        <div className="flex flex-col w-full justify-start items-end">
           <CodeEditorWindow
             code={code}
             onChange={onChange}
