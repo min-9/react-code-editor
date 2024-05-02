@@ -229,7 +229,7 @@ const Landing = () => {
           </button>
         </div>
       </div>
-      <div className="flex flex-col xl:flex-row justify-around gap-4 items-start px-8 py-4 mb-8">
+      <div className="flex flex-col xl:flex-row justify-around gap-4 items-start px-8 py-4 mb-8 h-auto min-h-full">
         <div className="flex flex-col w-full h-full justify-start items-end">
           <CodeEditorWindow
             code={code}
